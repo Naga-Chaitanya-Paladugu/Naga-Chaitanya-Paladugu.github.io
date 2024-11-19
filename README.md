@@ -36,6 +36,7 @@
 - Achieved best performance with Gradient Boosting (Recall: 0.98, F1-score: 0.76), while Random Forest (Recall: 0.96, F1-score: 0.74) demonstrated a better bias-variance trade-off, suitable for time-sensitive applications.
 - Identified customer loyalty, cumulative sales, and recency of purchase as top predictors for retention strategies.
 - Explored PCA and Clustering for feature reduction, optimizing model simplicity and efficiency.
+- **GitHub:** Ecommerce-Classification-Model
 
 ### Credit Card Default Prediction Using ML
 **July 2024**  
@@ -43,8 +44,9 @@
 - Performed Exploratory Data Analysis (EDA), feature engineering, and addressed class imbalance; implemented Bayesian logistic regression optimized via MCMC simulations, and evaluated using K-Fold Cross-Validation and Expected Log Predictive Density (ELPD) for robust performance assessment.
 - Adjusted the classification cutoff (0.5 to 0.3) in Model 1, boosting sensitivity from 40% to 75.5%, improving defaulter identification in alignment with credit risk mitigation goals.
 - Simplified Model 2 by using variables with high predictive power—Credit Limit and Average Repayment Status, achieving 74.3% sensitivity and 60% specificity. This approach provided an interpretable solution, optimizing credit limits and repayment strategies.
+- **GitHub:** CreditCard-Default-Prediction-Model
 
 ## Research Summaries & Analytical Reports
 
-- **Data Science Integration in Financial Services** – github.com/
-- **Analytics to Forecast Product Demand in Retail** – github.com/
+- **Data Science Integration in Financial Services** – github.com/Naga-Chaitanya-Paladugu
+- **Analytics to Forecast Product Demand in Retail** – github.com/Naga-Chaitanya-Paladugu
