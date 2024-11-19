@@ -1,10 +1,10 @@
 # Naga Chaitanya Paladugu
 
 **Location:** St. Louis, MO 63105  
-**Email:** nagachaitanyapaladugums@gmail.com  
+**Email:** [nagachaitanyapaladugums@gmail.com](mailto:nagachaitanyapaladugums@gmail.com)  
 **Phone:** +1 (314) 574 0839  
-**LinkedIn:** linkedin.com/in/naga-chaitanya-paladugu  
-**GitHub:** github.com/Naga-Chaitanya-Paladugu
+**LinkedIn:** [linkedin.com/in/naga-chaitanya-paladugu](https://linkedin.com/in/naga-chaitanya-paladugu)  
+**GitHub:** [github.com/Naga-Chaitanya-Paladugu](https://github.com/Naga-Chaitanya-Paladugu)
 
 ## Education
 
@@ -48,5 +48,5 @@
 
 ## Research Summaries & Analytical Reports
 
-- **Data Science Integration in Financial Services** – github.com/Naga-Chaitanya-Paladugu
-- **Analytics to Forecast Product Demand in Retail** – github.com/Naga-Chaitanya-Paladugu
+- **Data Science Integration in Financial Services** – [GitHub Link](https://github.com/Naga-Chaitanya-Paladugu)
+- **Analytics to Forecast Product Demand in Retail** – [GitHub Link](https://github.com/Naga-Chaitanya-Paladugu)
