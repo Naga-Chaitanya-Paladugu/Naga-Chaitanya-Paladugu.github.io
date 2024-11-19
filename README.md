@@ -2,7 +2,7 @@
 
 **Location:** St. Louis, MO 63105  
 **Email:** [nagachaitanyapaladugums@gmail.com](mailto:nagachaitanyapaladugums@gmail.com)  
-**Phone:** +1 (314) 574 0839  
+**Phone:** [+1 (314) 574 0839](tel:+13145740839)
 **LinkedIn:** [linkedin.com/in/naga-chaitanya-paladugu](https://linkedin.com/in/naga-chaitanya-paladugu)  
 **GitHub:** [github.com/Naga-Chaitanya-Paladugu](https://github.com/Naga-Chaitanya-Paladugu)
 
